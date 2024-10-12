@@ -1,0 +1,9 @@
+# Golang specific
+bin/
+build/
+*.exe
+*.test
+*.out
+
+# Environment and dependency files
+.env
